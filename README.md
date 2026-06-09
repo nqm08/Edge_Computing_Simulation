@@ -45,8 +45,7 @@ python edge_computing_simulation.py
 | `tasks_total` | Tổng số tác vụ phát sinh |
 | `tasks_completed` | Số tác vụ xử lý thành công |
 
-> **Lưu ý:** Nếu chạy lại, kết quả có thể khác nhau một chút do seed ngẫu nhiên.  
-> File `results.csv` hiện tại là số liệu chính thức dùng trong luận văn — **không cần chạy lại**.
+
 
 ---
 
